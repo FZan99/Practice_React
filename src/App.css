@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
