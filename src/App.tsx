@@ -44,7 +44,7 @@ function App() {
             for (let i = 0; i < 50; i++) {
                 arr.push(
                     <div className='gallery'>
-                        <p>test</p>
+                        <p>test2</p>
                     </div>
                 );
             }
